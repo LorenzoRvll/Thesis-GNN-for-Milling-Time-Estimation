@@ -16,4 +16,5 @@ The study aims to enhance predictive accuracy compared to traditional machine le
 ---
 
 The model, dataset, README, and LICENSE files are available in the main directory.
+
 The results (both from the GNN model and classical approaches) and the pre-simplified STL files are provided in their respective folders.
