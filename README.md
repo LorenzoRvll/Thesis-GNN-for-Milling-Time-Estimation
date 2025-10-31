@@ -13,3 +13,7 @@ This repository contains the research work and implementation developed for my M
 The project focuses on the development and optimization of a **Graph Neural Network (GNN)** model to predict **machining times in milling processes** using **3D mesh-based part representations**.
 The study aims to enhance predictive accuracy compared to traditional machine learning approaches (e.g., Decision Tree, Random Forest, SVM) and to explore feature-level and architectural ablations to understand the contribution of geometric and process-related information.
 
+---
+
+The model, dataset, README, and LICENSE files are available in the main directory.
+The results (both from the GNN model and classical approaches) and the pre-simplified STL files are provided in their respective folders.
